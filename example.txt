@@ -1,1 +1,6 @@
-Git ist cool
+
+Git ist super cool
+
+
+:wq
+
